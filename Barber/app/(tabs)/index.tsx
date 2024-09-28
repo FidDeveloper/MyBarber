@@ -16,7 +16,7 @@ export default function HomeScreen() {
         />
       }>
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Welcome to my barbershop!</ThemedText>
+        <ThemedText type="title">Welcome to my barbershop.com!</ThemedText>
         <HelloWave />
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
